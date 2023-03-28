@@ -16,7 +16,8 @@ Key points:
 -   The app leverages the local storage feature of web browsers using JavaScript to store data, so that the list of tasks is not deleted after the site is refreshed or closed.
 -   The app features a minimalist and responsive design, with easy-to-use buttons for adding new tasks, marking tasks as completed, editing tasks, and deleting tasks.
 
-    enter code here
+---
 
 Overall, this project serves as a great example of how to build a simple web application using popular web technologies like HTML, CSS, and JavaScript. It also demonstrates how to leverage local storage to create a more robust user experience for web applications.
-```
+
+---
